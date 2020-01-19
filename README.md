@@ -32,4 +32,6 @@ Vaccin :
 PEA :
 Guthrie ?  :
 
-### Can DL pdf with this information
+### PDF
+- Can DL pdf with those information
+- Form information first
